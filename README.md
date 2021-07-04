@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... yoga
 - 🌱 I’m currently learning ... Java, JSP, Ajax, JQuery, SQL etc..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... yoori0303@naver.com or https://jaieve.github.com/TIL
 
 <!---
 jaieve/jaieve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
