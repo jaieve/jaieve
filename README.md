@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seoyeon Hong
-- 👀 I’m interested in ... yoga and PROGRAMMING
-- 🧾 I learned ... HTML & CSS, Javascript, TypeScript, Flask, Flask, SQL, Hadoop ecosystem, Machine Learning, R,  etc...
-- 🌱 I’m currently learning ... Java, Spring Framework(JSP, JPA), Python,  etc..
+- 👀 I’m interested in ... pilates and PROGRAMMING
+- 🧾 I learned ... HTML & CSS, Javascript, React, Node.js, Java, SpringBoot SQL, Python etc...
+- 🌱 I’m currently learning ... Spring Framework(JSP, Thymeleaf), Node.js & React Python etc..
 - 💻 I'm studying and recording on ... https://rimooworld.tistory.com/
 - 📫 How to reach me ... yoori0303@naver.com or @jaiveve_1469
 
