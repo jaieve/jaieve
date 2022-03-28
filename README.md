@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Seoyeon Hong
-- 👀 I’m interested in ... pilates and PROGRAMMING
-- 🧾 I learned ... HTML & CSS, Javascript, React, Node.js, Java, SpringBoot SQL, Python etc...
-- 🌱 I’m currently learning ... Spring Framework(JSP, Thymeleaf), Node.js & React Python etc..
+- 👀 I’m interested in ... SPORTS(pilates and fencing) and PROGRAMMING
+- 🧾 I learned ... javascript, Java, SpringBoot, JSP, SQL(Oracle, MySQL..), Python etc...
+- 🌱 I’m currently learning ... Springboot & JPA, React, NodeJS & NextJS, Algorithms etc..
 - 💻 I'm studying and recording on ... https://rimooworld.tistory.com/
-- 📫 How to reach me ... yoori0303@naver.com or @jaiveve_1469
+- 📫 If you want my cute project ... https://www.jaieve.site
 
 <!---
 jaieve/jaieve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
